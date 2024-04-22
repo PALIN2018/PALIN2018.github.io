@@ -21,9 +21,9 @@ I am a second-year Ph.D student in Data Science and Analytics (DSA) thrust at HK
 
 I graduated from College of Internet of Things Engineering, Hohai University (河海大学物联网工程学院) with a bachelor’s degree and from the School of Electronic and Computer Engineering, Peking University (北京大学信息工程学院) with a master’s degree, advised by Prof.<a href="https://web.pkusz.edu.cn/adsp">Yuexian Zou</a>. I also collaborate with Prof.<a href="https://shoujinwang1.github.io/">Shoujin Wang</a> from University of Technology Sydney closely.
 
-My research interest includes sequential recommendation, medical NLP and large language models. I have published 15+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPs, IJCAI, SIGIR, WWW, CIKM, RecSys.
+My research interest includes sequential recommendation, medical NLP and large language models. I have published 15+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
 
-I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of academic cooperation, please feel free to email me at zhoupalin@gmail.com.
+I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of **academic collaboration** or would like to be an Intern/RA (3-6 months) within our group, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
@@ -31,7 +31,7 @@ I am now working on Large Language Models + RecSys/Healthcare. If you are seekin
 - *2023.09*: &nbsp;🎉 1 paper is accepted by NeurIPS 2023.
 - *2023.09*: &nbsp;🧑‍🔧 serve as the reviewer for AAAI2024, ICASSP2024 and LREC-COLING 2024.
 - *2023.08*: &nbsp;🎉 1 paper is accepted by CIKM 2023.
-- *2023.06*: &nbsp;🎉 2 papers is accepted by RecSys 2023.
+- *2023.06*: &nbsp;🎉 2 papers are accepted by RecSys 2023.
 - *2023.04*: &nbsp;🎉 1 papers is accepted by IJCAI 2023.
 - *2023.02*: &nbsp;🎉 1 papers is accepted by ICASSP 2023.
 
@@ -53,7 +53,7 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 </div>
 
 
-- ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241), Jungling Liu, Chao Liu, Peilin Zhou, et al.
+- ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241), Jungling Liu, Chao Liu, **Peilin Zhou**, et al.
 [![](https://img.shields.io/github/stars/williamliujl/LLMRec?style=social&label=Code+Stars)](https://github.com/williamliujl/LLMRec) 
 
 
@@ -65,6 +65,8 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 <div class='paper-box-text' markdown="1">
 
 [Decoupled Side Information Fusion for Sequential Recommendation](https://arxiv.org/pdf/2204.11046) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:qjMakFHDy7sC'></span></strong>\\
+Yueqi Xie, **Peilin Zhou**, Sunghun Kim
+
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AIM-SE/DIF-SR) 
 
 - **Motivation**: The early integration of various types of embeddings limits the expressiveness of attention matrices due to a rank bottleneck and constrains the flexibility of gradients.
