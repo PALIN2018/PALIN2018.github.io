@@ -21,11 +21,12 @@ I am a second-year Ph.D student in Data Science and Analytics (DSA) thrust at HK
 
 I graduated from College of Internet of Things Engineering, Hohai University (河海大学物联网工程学院) with a bachelor’s degree and from the School of Electronic and Computer Engineering, Peking University (北京大学信息工程学院) with a master’s degree, advised by Prof.<a href="https://web.pkusz.edu.cn/adsp">Yuexian Zou</a>. I also collaborate with Prof.<a href="https://shoujinwang1.github.io/">Shoujin Wang</a> from University of Technology Sydney closely.
 
-My research interest includes sequential recommendation, medical NLP and large language models. I have published 15+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
+My research interest includes sequential recommendation, medical NLP and large language models. I have published 15+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
 
 I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of **academic collaboration** or would like to be an Intern/RA (3-6 months) within our group, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
+- *2024.05*: &nbsp;🎉 1 paper is accepted by ACL 2024. Congrats to Jian!
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
 - *2023.09*: &nbsp;🎉 1 paper is accepted by NeurIPS 2023.
@@ -179,11 +180,14 @@ Qingcheng Zeng, Lucas Garay, **Peilin Zhou**, Dading Chong, et al.
 </div>
 </div>
 
-## 🤖 Conventional NLP Tasks
+## 🤖 NLP Tasks and Datasets
+### 📂 Dataset
+- ``ACL 2024`` [FinTextQA: A Dataset for Long-form Financial Question Answering](),
+Jian Chen, **Peilin Zhou**, Yining Hua, et al.
 
 ### 🗣️ Spoken Language Understanding
 
-- ``ICASSP 2022`` [Joint Multiple Intent Detection and Slot Filling via Selfdistillation, IEEE International Conference on Acoustics, Speech and Signal Processing](https://arxiv.org/pdf/2108.08042),
+- ``ICASSP 2022`` [Joint Multiple Intent Detection and Slot Filling via Self-distillation](https://arxiv.org/pdf/2108.08042),
 Lisong Chen, **Peilin Zhou**, Yuexian Zou.
 - ``INTERSPEECH 2022`` [Calibrate and Refine! A Novel and Agile Framework for ASR-error Robust Intent Detection](https://arxiv.org/pdf/2205.11008),
 **Peilin Zhou**, Dading Chong, Helin Wang, and Qingcheng Zeng.
