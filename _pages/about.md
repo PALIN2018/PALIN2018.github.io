@@ -26,6 +26,7 @@ My research interest includes sequential recommendation, medical NLP and large l
 I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of **academic collaboration** or would like to be an Intern/RA (3-6 months) within our group, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
+- *2024.06*: &nbsp;🧑‍🔧 serve as the reviewer for AAAI2025, NeurIPS2024 and COLING 2025.
 - *2024.05*: &nbsp;🎉 1 paper is accepted by ACL 2024. Congrats to Jian!
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
