@@ -17,26 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D student in Data Science and Analytics (DSA) thrust at HKUST, where I am very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>.
+I am a third-year Ph.D student in Data Science and Analytics (DSA) thrust at HKUST, where I am very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>.
 
 I graduated from College of Internet of Things Engineering, Hohai University (河海大学物联网工程学院) with a bachelor’s degree and from the School of Electronic and Computer Engineering, Peking University (北京大学信息工程学院) with a master’s degree, advised by Prof.<a href="https://web.pkusz.edu.cn/adsp">Yuexian Zou</a>. I also collaborate with Prof.<a href="https://shoujinwang1.github.io/">Shoujin Wang</a> from University of Technology Sydney closely.
 
-My research interest includes sequential recommendation, medical NLP and large language models. I have published 15+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
+My research interest includes sequential recommendation, medical NLP and large language models. I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
 
 I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of **academic collaboration** or would like to be an Intern/RA (3-6 months) within our group, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
-- *2024.10*: &nbsp;🧑‍🔧 serve as the reviewer for ICLR2025, WWW2025 and ICASSP 2025.
+- *2025.02*: &nbsp;🧑‍🔧 Serving as a reviewer for CVPR 2025, ICCV 2025, and TOIS.
+- *2025.01*: &nbsp;🎉 Milestone: Google Scholar citations exceed 1000!
+- *2025.01*: &nbsp;🎉 1 paper accepted by WWW 2025. 
+- *2025.01*: &nbsp;🎉 1 paper accepted by JMIR. Congrats to Wanxin!
+- *2025.01*: &nbsp;🎉 Our paper "Application of Large Language Models in Medicine" accepted by Nature Reviews Bioengineering. Congrats to Fenglin!
+- *2025.01*: &nbsp;🎉 Our survey paper "Cold-Start Recommendation Towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap" is now available on ArXiv. [Read it here](https://arxiv.org/abs/2501.01945)- *2024.10*: &nbsp;🧑‍🔧 serve as the reviewer for ICLR2025, WWW2025 and ICASSP 2025.
 - *2024.06*: &nbsp;🧑‍🔧 serve as the reviewer for AAAI2025, NeurIPS2024 and COLING 2025.
 - *2024.05*: &nbsp;🎉 1 paper is accepted by ACL 2024. Congrats to Jian!
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
 - *2023.09*: &nbsp;🎉 1 paper is accepted by NeurIPS 2023.
-- *2023.09*: &nbsp;🧑‍🔧 serve as the reviewer for AAAI2024, ICASSP2024 and LREC-COLING 2024.
-- *2023.08*: &nbsp;🎉 1 paper is accepted by CIKM 2023.
-- *2023.06*: &nbsp;🎉 2 papers are accepted by RecSys 2023.
-- *2023.04*: &nbsp;🎉 1 papers is accepted by IJCAI 2023.
-- *2023.02*: &nbsp;🎉 1 papers is accepted by ICASSP 2023.
+
 
 # 📝 Publications 
 
