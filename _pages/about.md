@@ -62,27 +62,19 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">WWW 2025 (Oral)</div>
-      <img src='images/MSRBench.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 (Oral)</div><img src='images/MSRBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764)  
+[When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764) \\
 **Peilin Zhou**, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao, You-Liang Huang, Dading Chong, Junling Liu, Jae Boum Kim, Shoujin Wang, Raymond Chi-Wing Wong, Sunghun Kim.
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PALIN2018/MSRBench)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PALIN2018/MSRBench) 
 
 - Introduces **MSRBench**, the first benchmark to systematically evaluate the integration of Large Vision Language Models (LVLMs) in multimodal sequential recommendation.
 - Compares five integration strategies (recommender, item enhancer, reranker, and two combinations), identifying **reranker** as the most effective.
 - Constructs the enhanced dataset **Amazon Review Plus**, with LVLM-generated image descriptions to support more flexible item modeling.
-
-  </div>
 </div>
-
+</div>
 
 - ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241), Jungling Liu, Chao Liu, **Peilin Zhou**, et al.
 [![](https://img.shields.io/github/stars/williamliujl/LLMRec?style=social&label=Code+Stars)](https://github.com/williamliujl/LLMRec) 
