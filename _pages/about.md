@@ -19,13 +19,16 @@ redirect_from:
 
 I am a third-year Ph.D student in Data Science and Analytics (DSA) thrust at HKUST, where I am very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>.
 
-I graduated from College of Internet of Things Engineering, Hohai University (河海大学物联网工程学院) with a bachelor’s degree and from the School of Electronic and Computer Engineering, Peking University (北京大学信息工程学院) with a master’s degree, advised by Prof.<a href="https://web.pkusz.edu.cn/adsp">Yuexian Zou</a>. I also collaborate with Prof.<a href="https://shoujinwang1.github.io/">Shoujin Wang</a> from University of Technology Sydney closely.
+I received my master’s degree from the School of Electronic and Computer Engineering at Peking University (北京大学信息工程学院), where I was advised by [Prof. Yuexian Zou](https://web.pkusz.edu.cn/adsp). I earned my bachelor’s degree from the College of Internet of Things Engineering at Hohai University (河海大学物联网工程学院). I also work closely with [Prof. Shoujin Wang](https://shoujinwang1.github.io/) from the University of Technology Sydney.
 
-My research interest includes sequential recommendation, medical NLP and large language models. I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
-
-I am now working on Large Language Models + RecSys/Healthcare. If you are seeking any form of **academic collaboration** or would like to be an Intern/RA (3-6 months) within our group, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
+I am currently working on Large Language Models + RecSys/Healthcare. I am actively seeking job opportunities in both academia (faculty or postdoctoral positions) and industry. If you are interested in **academic collaboration** or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
+- *2025.05*: &nbsp;🚀 Our new benchmark paper "**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**" is now available on ArXiv!  
+  This is the **first high-difficulty benchmark** specifically built to evaluate LLMs’ real-world web browsing and reasoning abilities on the **Chinese internet**, spanning 289 multi-hop, verifiable questions across 11 domains.  
+  📄 [Read the paper](https://arxiv.org/pdf/2504.19314)  
+  📂 [Get the dataset on GitHub](https://github.com/PALIN2018/BrowseComp-ZH)  
+  📢 [中文介绍](https://mp.weixin.qq.com/s/E8nLGUhbEPi0Z5E8RG4tew) — 欢迎转发支持！
 - *2025.02*: &nbsp;🧑‍🔧 Serving as a reviewer for CVPR 2025, ICCV 2025, and TOIS.
 - *2025.01*: &nbsp;🎉 Milestone: Google Scholar citations exceed 1000!
 - *2025.01*: &nbsp;🎉 1 paper accepted by WWW 2025. 
@@ -43,7 +46,7 @@ I am now working on Large Language Models + RecSys/Healthcare. If you are seekin
 # 📝 Publications 
 
 ## 📊 Recommender System
-### 🧠 LLM for RecSys
+### 🧠 LLM/LVLM for RecSys
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023 GenRec Workshop</div><img src='images/chatgpt-rec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +58,27 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 - First work to utilize ChatGPT as a universal recommender, assessing its capabilities across five tasks.
 - Provides valuable insights into the strengths and limitations of ChatGPT in recommendation systems.
 </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2025 (Oral)</div>
+      <img src='images/MSRBench.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764)  
+**Peilin Zhou**, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao, You-Liang Huang, Dading Chong, Junling Liu, Jae Boum Kim, Shoujin Wang, Raymond Chi-Wing Wong, Sunghun Kim.
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PALIN2018/MSRBench)
+
+- Introduces **MSRBench**, the first benchmark to systematically evaluate the integration of Large Vision Language Models (LVLMs) in multimodal sequential recommendation.
+- Compares five integration strategies (recommender, item enhancer, reranker, and two combinations), identifying **reranker** as the most effective.
+- Constructs the enhanced dataset **Amazon Review Plus**, with LVLM-generated image descriptions to support more flexible item modeling.
+
+  </div>
 </div>
 
 
@@ -222,7 +246,7 @@ Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
 - *2013.09 - 2017.7*, B.Eng. in Telecommunication Engineering, Hohai University.
 
 # 🧑‍🔧 Academic Services
-- Reviewer (or PC Member): WWW 2024, CVPR 2024, AAAI 2024, NeurIPS 2023/2022, EMNLP 2023, ACL 2023, ICASSP 2024/2023/2021, COLING 2023/2022, Interspeech 2021, Neural Computing and Application
+- Reviewer (or PC Member): TKDE, TOIS, KDD 2025, ICLR 2025, ICCV 2025, WWW 2025/2024, CVPR 2025/2024, AAAI 2025/2024, NeurIPS 2025/2024/2023/2022, EMNLP 2023, ACL 2025/2024/2023, ICASSP 2024/2023/2021, COLING 2023/2022, Interspeech 2021, Neural Computing and Application
 
 # 💻 Internships
 - *2022.07 - 2022.09*, Reseach Assistant, supervised by Sunghun KIM, Hong Kong University of Science and Technology.
