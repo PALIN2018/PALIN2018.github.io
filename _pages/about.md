@@ -21,6 +21,8 @@ I am a third-year Ph.D student in Data Science and Analytics (DSA) thrust at HKU
 
 I received my master’s degree from the School of Electronic and Computer Engineering at Peking University (北京大学信息工程学院), where I was advised by [Prof. Yuexian Zou](https://web.pkusz.edu.cn/adsp). I earned my bachelor’s degree from the College of Internet of Things Engineering at Hohai University (河海大学物联网工程学院). I also work closely with [Prof. Shoujin Wang](https://shoujinwang1.github.io/) from the University of Technology Sydney.
 
+My research interest includes sequential recommendation, medical NLP and large language models. I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
+
 I am currently working on Large Language Models + RecSys/Healthcare. I am actively seeking job opportunities in both academia (faculty or postdoctoral positions) and industry. If you are interested in **academic collaboration** or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
