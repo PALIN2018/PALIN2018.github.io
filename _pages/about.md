@@ -23,7 +23,7 @@ I received my master’s degree from the School of Electronic and Computer Engin
 
 My research interest includes sequential recommendation, medical NLP and large language models. I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
 
-I am currently working on Large Language Models + RecSys/Healthcare. I am actively seeking job opportunities in both academia (faculty or postdoctoral positions) and industry. If you are interested in **academic collaboration** or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
+I am currently working on Large Language Models + RecSys/Healthcare. I am actively **seeking job opportunities in both academia (faculty or postdoctoral positions) and industry**. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
 - *2025.05*: &nbsp;🚀 Our new benchmark paper "**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**" is now available on ArXiv!  
@@ -31,6 +31,7 @@ I am currently working on Large Language Models + RecSys/Healthcare. I am active
   📄 [Read the paper](https://arxiv.org/pdf/2504.19314)  
   📂 [Get the dataset on GitHub](https://github.com/PALIN2018/BrowseComp-ZH)  
   📢 [中文介绍](https://mp.weixin.qq.com/s/E8nLGUhbEPi0Z5E8RG4tew) — 欢迎转发支持！
+- *2025.05*: &nbsp;🎉 1 paper accepted by KDD 2025. Congrats to Jian!
 - *2025.02*: &nbsp;🧑‍🔧 Serving as a reviewer for CVPR 2025, ICCV 2025, and TOIS.
 - *2025.01*: &nbsp;🎉 Milestone: Google Scholar citations exceed 1000!
 - *2025.01*: &nbsp;🎉 1 paper accepted by WWW 2025. 
