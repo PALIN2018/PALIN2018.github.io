@@ -41,6 +41,7 @@ I am actively <strong>seeking job opportunities in both academia (faculty or pos
 - *2026.01*: &nbsp;🎉 1 paper accepted by WWW 2026. Congrats to Yifan!
 - *2025.12*: &nbsp;🎓 Successfully defended my Ph.D. thesis titled "**Mitigating Data Challenges in Sequential Recommender Systems**"!
 - *2025.12*: &nbsp;🎉 1 paper accepted by KDD 2026. Congrats to Jian!
+- *2025.07*: &nbsp;🗣 Invited to give a talk on "**Mitigating Data Challenges in Sequential Recommendation**" at Bytedance (Advertising Platform Team).
 - *2025.05*: &nbsp;🚀 Our new benchmark paper "**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**" is now available on ArXiv!  
   This is the **first high-difficulty benchmark** specifically built to evaluate LLMs’ real-world web browsing and reasoning abilities on the **Chinese internet**, spanning 289 multi-hop, verifiable questions across 11 domains.  
   📄 [Read the paper](https://arxiv.org/pdf/2504.19314)  
@@ -59,7 +60,6 @@ I am actively <strong>seeking job opportunities in both academia (faculty or pos
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
 - *2023.09*: &nbsp;🎉 1 paper is accepted by NeurIPS 2023.
-
 
 # 📝 Publications 
 
@@ -242,6 +242,10 @@ Nuo Chen, Fenglin Liu, Chenyu You, **Peilin Zhou**, Yuexian Zou
 ### 🎙️ Audio Pretraining
 - ``ICASSP 2023`` [Masked Spectrogram Prediction for Self-supervised Audio Pre-training](https://arxiv.org/pdf/2204.12768),
 Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
+
+# 🗣 Invited Talks
+
+- *2025.07* "**Mitigating Data Challenges in Sequential Recommendation**", AIGC Tech Talk at Bytedance (Advertising Platform Team).
 
 # 🎖 Honors and Awards
 - *2023.10* The Third Prize of AI Hackathon (Healthcare Track) by Baichuan AI & Amazon Cloud. 
