@@ -21,8 +21,6 @@ I obtained my Ph.D. degree in Data Science and Analytics (DSA) from HKUST, where
 
 I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys.
 
-I am actively <strong>seeking job opportunities in both academia (faculty or postdoctoral positions) and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
-
 My research broadly falls under the umbrella of <strong>Human-Centered AI</strong>, striving to bridge the gap between <strong>data-driven prediction</strong> and <strong>knowledge-driven reasoning</strong>. Specifically, I am building a systematic research framework that evolves from robust user modeling to complex clinical decision-making:
 
 <ul>
@@ -34,6 +32,8 @@ My research broadly falls under the umbrella of <strong>Human-Centered AI</stron
     <li><strong>AI for Healthcare (Application):</strong> Transferring robust sequential modeling and LLM reasoning capabilities to the medical domain to facilitate intelligent clinical decision-making and personalized care.</li>
 
 </ul>
+
+I am actively <strong>seeking job opportunities in both academia (faculty or postdoctoral positions) and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 
 
 # 🔥 News
