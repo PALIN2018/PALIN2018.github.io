@@ -17,15 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D student in Data Science and Analytics (DSA) thrust at HKUST, where I am very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>.
+I obtained my Ph.D. degree in Data Science and Analytics (DSA) from HKUST, where I was very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>. I received my master’s degree from the School of Electronic and Computer Engineering at Peking University (北京大学信息工程学院), where I was advised by [Prof. Yuexian Zou](https://web.pkusz.edu.cn/adsp), and earned my bachelor’s degree from the College of Internet of Things Engineering at Hohai University (河海大学物联网工程学院). I also work closely with [Prof. Shoujin Wang](https://shoujinwang1.github.io/) from the University of Technology Sydney.
 
-I received my master’s degree from the School of Electronic and Computer Engineering at Peking University (北京大学信息工程学院), where I was advised by [Prof. Yuexian Zou](https://web.pkusz.edu.cn/adsp). I earned my bachelor’s degree from the College of Internet of Things Engineering at Hohai University (河海大学物联网工程学院). I also work closely with [Prof. Shoujin Wang](https://shoujinwang1.github.io/) from the University of Technology Sydney.
+My research broadly falls under the umbrella of <strong>Human-Centered AI</strong>, striving to bridge the gap between <strong>data-driven prediction</strong> and <strong>knowledge-driven reasoning</strong>. Specifically, I am building a systematic research framework that evolves from robust user modeling to complex clinical decision-making:
 
-My research interest includes sequential recommendation, medical NLP and large language models. I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, CIKM, RecSys, ICASSP.
+<ul>
 
-I am currently working on Large Language Models + RecSys/Healthcare. I am actively **seeking job opportunities in both academia (faculty or postdoctoral positions) and industry**. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
+    <li><strong>Robust Sequential Modeling (Foundation):</strong> Addressing fundamental data challenges (e.g., noise, sparsity, heterogeneity) in sequential recommender systems to build reliable user behavior models.</li>
+
+    <li><strong>LLM-Empowered Reasoning (Methodology):</strong> Leveraging Large Language Models to enhance decision-making systems with reasoning capabilities, moving from simple matching to interpretable, agent-based planning.</li>
+
+    <li><strong>AI for Healthcare (Application):</strong> Transferring robust sequential modeling and LLM reasoning capabilities to the medical domain to facilitate intelligent clinical decision-making and personalized care.</li>
+
+</ul>
+
+I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys.
+
+I am actively <strong>seeking job opportunities in both academia (faculty or postdoctoral positions) and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 			
 # 🔥 News
+- *2026.01*: &nbsp;🎉 1 paper accepted by ICLR 2026. Congrats to Zhuo!
+- *2026.01*: &nbsp;🎉 1 paper accepted by WWW 2026. Congrats to Yifan!
+- *2025.12*: &nbsp;🎓 Successfully defended my Ph.D. thesis titled "**Mitigating Data Challenges in Sequential Recommender Systems**"!
+- *2025.12*: &nbsp;🎉 1 paper accepted by KDD 2026. Congrats to Jian!
 - *2025.05*: &nbsp;🚀 Our new benchmark paper "**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**" is now available on ArXiv!  
   This is the **first high-difficulty benchmark** specifically built to evaluate LLMs’ real-world web browsing and reasoning abilities on the **Chinese internet**, spanning 289 multi-hop, verifiable questions across 11 domains.  
   📄 [Read the paper](https://arxiv.org/pdf/2504.19314)  
@@ -236,7 +250,7 @@ Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
 - *2015.05* National Scholarship by Ministry of Education of the People’s Republic of China. 
 
 # 📖 Educations
-- *2022.09 - 2025.07 (Expected)*, Ph.D. in Data Science Analytics, HKUST. 
+- *2022.09 - 2026.01*, Ph.D. in Data Science Analytics, HKUST. 
 - *2018.09 - 2021.7*, M.Sc. in Computer Applied Technology, Peking University. 
 - *2013.09 - 2017.7*, B.Eng. in Telecommunication Engineering, Hohai University.
 
