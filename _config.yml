@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peilin Zhou's Homepage"
-description              : "PhD candidate in DSA, HKUST. Focusing on Large Language Models and their applications in Recommendation Systems and Healthcare."
+description: "Ph.D. in DSA from HKUST. Focusing on Large Language Models and their applications in Recommendation Systems and Healthcare."
 repository               : "PALIN2018/PALIN2018.github.io"
 google_scholar_stats_use_cdn : true
 
