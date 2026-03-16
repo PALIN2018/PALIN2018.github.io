@@ -17,24 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained my Ph.D. degree in Data Science and Analytics (DSA) from HKUST, where I was very fortunately supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun KIM</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing WONG</a>. I received my master’s degree from the School of Electronic and Computer Engineering at Peking University (北京大学信息工程学院), where I was advised by [Prof. Yuexian Zou](https://web.pkusz.edu.cn/adsp), and earned my bachelor’s degree from the College of Internet of Things Engineering at Hohai University (河海大学物联网工程学院). I also work closely with [Prof. Shoujin Wang](https://shoujinwang1.github.io/) from the University of Technology Sydney.
+I am currently a Postdoctoral Associate at New York University Abu Dhabi (NYUAD), working with Prof. <a href="https://talhanai.xyz/">Tuka Alhanai</a> in the Laboratory for Computer-Human Intelligence (CHI Lab).
+I obtained my Ph.D. in Data Science and Analytics (DSA) from the Hong Kong University of Science and Technology (HKUST), where I was fortunate to be supervised by Prof. <a href="https://www.cse.ust.hk/~hunkim/">Sunghun Kim</a> and Prof. <a href="https://seng.hkust.edu.hk/about/people/faculty/raymond-chi-wing-wong">Raymond Chi Wing Wong</a>. 
+Prior to that, I received my M.S. degree from the School of Electronic and Computer Engineering at Peking University, where I was advised by <a href="https://web.pkusz.edu.cn/adsp">Prof. Yuexian Zou</a>. I earned my B.Eng. degree from the College of Internet of Things Engineering at Hohai University.
+I also closely collaborate with <a href="https://shoujinwang1.github.io/">Prof. Shoujin Wang</a> from the University of Technology Sydney.
 
-I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys. My research broadly falls under the umbrella of <strong>Human-Centered AI</strong>, striving to bridge the gap between <strong>data-driven prediction</strong> and <strong>knowledge-driven reasoning</strong>. Specifically, I am building a systematic research framework that evolves from robust user modeling to complex clinical decision-making:
+I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys. My research focuses on foundation models and multimodal intelligent systems, with an emphasis on user behavior modeling, reasoning-enhanced decision making, and domain AI applications. I am particularly interested in how language, vision, and behavioral signals can be unified within generalizable AI systems that support reliable understanding, prediction, and decision making in real-world settings.
 
 <ul>
 
-    <li><strong>Robust Sequential Modeling (Foundation):</strong> Addressing fundamental data challenges (e.g., noise, sparsity, heterogeneity) in sequential recommender systems to build reliable user behavior models.</li>
+<li><strong>Foundation Models for Real-World Intelligence:</strong> Studying how large language and vision-language models can be adapted, evaluated, and extended to operate reliably in complex real-world environments.</li>
 
-    <li><strong>LLM-Empowered Reasoning (Methodology):</strong> Leveraging Large Language Models to enhance decision-making systems with reasoning capabilities, moving from simple matching to interpretable, agent-based planning.</li>
+<li><strong>Human-Centered Sequential Intelligence:</strong> Modeling human behavior and sequential interactions to enable AI systems that support personalization and adaptive decision making.</li>
 
-    <li><strong>AI for Healthcare (Application):</strong> Transferring robust sequential modeling and LLM reasoning capabilities to the medical domain to facilitate intelligent clinical decision-making and personalized care.</li>
+<li><strong>Reasoning-Centric AI Systems:</strong> Developing AI systems that integrate retrieval, structured reasoning, and agentic workflows to move beyond pattern recognition toward more general decision-making capabilities.</li>
+
+<li><strong>AI for High-Impact Domains:</strong> Applying foundation models to domains such as healthcare, finance, and environmental science while developing datasets and benchmarks for systematic evaluation.</li>
 
 </ul>
 
-I am actively <strong>seeking job opportunities in both academia (faculty or postdoctoral positions) and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
+I am actively <strong>seeking job opportunities in both academia  and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 1 paper accepted by AAAI 2026 Summer Symposium. 
 - *2026.01*: &nbsp;🎉 1 paper accepted by ICLR 2026. Congrats to Zhuo!
 - *2026.01*: &nbsp;🎉 1 paper accepted by WWW 2026. Congrats to Yifan!
 - *2025.12*: &nbsp;🎓 Successfully defended my Ph.D. thesis titled "**Mitigating Data Challenges in Sequential Recommender Systems**"!

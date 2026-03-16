@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peilin Zhou's Homepage"
-description: "Ph.D. in DSA from HKUST. Focusing on Large Language Models and their applications in Recommendation Systems and Healthcare."
+description: "Postdoctoral researcher working on foundation models, multimodal intelligent systems, and agentic AI, focusing on reasoning-driven decision making and real-world applications."
 repository               : "PALIN2018/PALIN2018.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peilin Zhou(周培林)"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "HKUST"
-  location         : "Hong Kong, China"
+  bio              : "NYUAD"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3dx8O1AAAAAJ"
