@@ -22,17 +22,29 @@ I obtained my Ph.D. in Data Science and Analytics (DSA) from the Hong Kong Unive
 Prior to that, I received my M.S. degree from the School of Electronic and Computer Engineering at Peking University, where I was advised by <a href="https://web.pkusz.edu.cn/adsp">Prof. Yuexian Zou</a>. I earned my B.Eng. degree from the College of Internet of Things Engineering at Hohai University.
 I also closely collaborate with <a href="https://shoujinwang1.github.io/">Prof. Shoujin Wang</a> from the University of Technology Sydney.
 
-I have published 20+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys. My research focuses on foundation models and multimodal intelligent systems, with an emphasis on user behavior modeling, reasoning-enhanced decision making, and domain AI applications. I am particularly interested in how language, vision, and behavioral signals can be unified within generalizable AI systems that support reliable understanding, prediction, and decision making in real-world settings.
+I have published 30+ papers <a href='https://scholar.google.com/citations?user=3dx8O1AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at top international AI conferences such as ACL, NeurIPS, IJCAI, SIGIR, WWW, KDD, CIKM, and RecSys. My research focuses on building and evaluating AI systems that work reliably 
+under real-world data complexity — where inputs are noisy or heterogeneous, 
+annotations are scarce, and deployment demands go beyond benchmark accuracy. 
+This question drives my work across three directions.
 
 <ul>
 
-<li><strong>Foundation Models for Real-World Intelligence:</strong> Studying how large language and vision-language models can be adapted, evaluated, and extended to operate reliably in complex real-world environments.</li>
+<li><strong>Recommender Systems:</strong> My core research area, rooted in 
+mitigating data challenges in sequential recommendation — including noise, 
+sparsity, and multimodal heterogeneity. I am increasingly focused on how 
+foundation models restructure this space, moving from behavioral pattern 
+matching toward intent-aware reasoning and richer user understanding.</li>
 
-<li><strong>Human-Centered Sequential Intelligence:</strong> Modeling human behavior and sequential interactions to enable AI systems that support personalization and adaptive decision making.</li>
+<li><strong>AI for Healthcare:</strong> I study how foundation models can be 
+adapted and evaluated for clinical applications, with a focus on building 
+high-quality medical datasets and benchmarks, and assessing where LLMs 
+genuinely support — and where they fall short of — real clinical demands.</li>
 
-<li><strong>Reasoning-Centric AI Systems:</strong> Developing AI systems that integrate retrieval, structured reasoning, and agentic workflows to move beyond pattern recognition toward more general decision-making capabilities.</li>
-
-<li><strong>AI for High-Impact Domains:</strong> Applying foundation models to domains such as healthcare, finance, and environmental science while developing datasets and benchmarks for systematic evaluation.</li>
+<li><strong>Foundation Model Evaluation:</strong> An emerging direction in my 
+research: developing benchmarks that diagnose what foundation models can 
+and cannot do in high-value real-world domains. My goal is to move beyond 
+leaderboard rankings toward systematic understanding of model capabilities 
+and failure modes.</li>
 
 </ul>
 
@@ -40,6 +52,8 @@ I am actively <strong>seeking job opportunities in both academia  and industry</
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 1 paper accepted by ACL 2026. Congrats to Hongbin!
+- *2026.04*: &nbsp;🎉 1 paper accepted by SIGIR 2026. Congrats to Zhongtao!
 - *2026.03*: &nbsp;🎉 1 paper accepted by AAAI 2026 Summer Symposium. 
 - *2026.01*: &nbsp;🎉 1 paper accepted by ICLR 2026. Congrats to Zhuo!
 - *2026.01*: &nbsp;🎉 1 paper accepted by WWW 2026. Congrats to Yifan!
