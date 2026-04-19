@@ -52,6 +52,7 @@ I am actively <strong>seeking job opportunities in both academia  and industry</
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 1 paper accepted by TOIS. Congrats to Zhuo!
 - *2026.04*: &nbsp;🎉 1 paper accepted by ACL 2026. Congrats to Hongbin!
 - *2026.04*: &nbsp;🎉 1 paper accepted by SIGIR 2026. Congrats to Zhongtao!
 - *2026.03*: &nbsp;🎉 1 paper accepted by AAAI 2026 Summer Symposium. 
