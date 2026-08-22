@@ -52,8 +52,10 @@ I am actively <strong>seeking job opportunities in both academia  and industry</
 
 
 # 🔥 News
+<!-- Keep the FocusFlow announcement pinned as the first News item. -->
+- *2026.08*: &nbsp;🚀 **FocusFlow v1.1.1 is now available!** It is a free macOS focus timer designed for deep work, real screen breaks, and healthier evening routines, with local focus statistics and a research-inspired three-minute movement session. [Explore FocusFlow and download the latest version](/focusflow/) — I would love for you to try it and share your feedback!
+- *2026.08*: &nbsp;🎉 2 papers accepted by EMNLP 2026. Congrats to Zhuo and Bo!
 - *2026.08*: &nbsp;🎉 1 paper accepted by CIKM 2026. Congrats to Yifan!
-- *2026.08*: &nbsp;🚀 I built and released **FocusFlow**, a free macOS focus timer designed for deep work, real screen breaks, and healthier evening routines. It includes local focus statistics and a research-inspired three-minute movement session. [Explore FocusFlow and download the app](/focusflow/) — I would love for you to try it and share your feedback!
 - *2026.04*: &nbsp;🎉 1 paper accepted by TOIS. Congrats to Zhuo!
 - *2026.04*: &nbsp;🎉 1 paper accepted by ACL 2026. Congrats to Hongbin!
 - *2026.04*: &nbsp;🎉 1 paper accepted by SIGIR 2026. Congrats to Zhongtao!
