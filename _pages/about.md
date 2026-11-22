@@ -48,7 +48,7 @@ and failure modes.</li>
 
 </ul>
 
-I am actively <strong>seeking job opportunities in both academia  and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
+I am actively <strong>seeking job opportunities in both academia and industry</strong>. If you are interested in academic collaboration or would like to discuss potential opportunities, please feel free to email me at [zhoupalin@gmail.com](mailto:zhoupalin@gmail.com).
 
 
 # 🔥 News
@@ -77,8 +77,8 @@ I am actively <strong>seeking job opportunities in both academia  and industry</
 - *2025.01*: &nbsp;🎉 1 paper accepted by JMIR. Congrats to Wanxin!
 - *2025.01*: &nbsp;🎉 Our paper "Application of Large Language Models in Medicine" accepted by Nature Reviews Bioengineering. Congrats to Fenglin!
 - *2025.01*: &nbsp;🎉 Our survey paper "Cold-Start Recommendation Towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap" is now available on ArXiv. [Read it here](https://arxiv.org/abs/2501.01945)
-- *2024.10*: &nbsp;🧑‍🔧 serve as the reviewer for ICLR2025, WWW2025 and ICASSP 2025.
-- *2024.06*: &nbsp;🧑‍🔧 serve as the reviewer for AAAI2025, NeurIPS2024 and COLING 2025.
+- *2024.10*: &nbsp;🧑‍🔧 Serving as a reviewer for ICLR 2025, WWW 2025, and ICASSP 2025.
+- *2024.06*: &nbsp;🧑‍🔧 Serving as a reviewer for AAAI 2025, NeurIPS 2024, and COLING 2025.
 - *2024.05*: &nbsp;🎉 1 paper is accepted by ACL 2024. Congrats to Jian!
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
@@ -104,7 +104,7 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 (Oral)</div><img src='images/MSRBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764) \\
+[When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:dhFuZR0502QC'></span></strong> \\
 **Peilin Zhou**, Chao Liu, Jing Ren, Xinfeng Zhou, Yueqi Xie, Meng Cao, Zhongtao Rao, You-Liang Huang, Dading Chong, Junling Liu, Jae Boum Kim, Shoujin Wang, Raymond Chi-Wing Wong, Sunghun Kim.
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/PALIN2018/MSRBench) 
@@ -115,11 +115,11 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 </div>
 </div>
 
-- ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241), Jungling Liu, Chao Liu, **Peilin Zhou**, et al.
+- ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:Se3iqnhoufwC'></span></strong>, Junling Liu, Chao Liu, **Peilin Zhou**, et al.
 [![](https://img.shields.io/github/stars/williamliujl/LLMRec?style=social&label=Code+Stars)](https://github.com/williamliujl/LLMRec) 
 
 
-- ``ArXiv`` [Exploring Recommendation Capabilities of GPT-4V (ision): A Preliminary Case Study](https://arxiv.org/pdf/2311.04199), **Peilin Zhou**, Meng Cao, Youliang Huang, Qichen Ye, et al.
+- ``ArXiv`` [Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study](https://arxiv.org/pdf/2311.04199) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:3fE2CSJIrl8C'></span></strong>, **Peilin Zhou**, Meng Cao, Youliang Huang, Qichen Ye, et al.
 
 ### 🔁 Sequential Recommendation
 
@@ -182,7 +182,7 @@ Yueqi Xie, **Peilin Zhou**, Sunghun Kim
 
 - Introduce METS-CoV, the first dataset to include medical entities and targeted sentiments on COVID-19-related tweets. 
 - METS-CoV fully considers the characteristics of the medical field and can therefore be used to help researchers use natural language processing models to mine valuable medical information from tweets.
-- Annotation guidelines, benchmark models, and source code are released for medical social medial research.
+- Annotation guidelines, benchmark models, and source code are released for medical social media research.
 </div>
 </div>
 
@@ -216,7 +216,7 @@ Qichen Ye, Junling Liu, Dading Chong, **Peilin Zhou**, et al.
 </div>
 </div>
 
-- ``Under Review`` [Qilin-Med-VL: Towards Chinese Large Vision-language Model for General Healthcare](https://arxiv.org/pdf/2310.17956),
+- ``Under Review`` [Qilin-Med-VL: Towards Chinese Large Vision-language Model for General Healthcare](https://arxiv.org/pdf/2310.17956) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:MXK_kJrjxJIC'></span></strong>,
 Junling Liu, Ziming Wang, Qichen Ye, Dading Chong, **Peilin Zhou**, Yining Hua
 [![](https://img.shields.io/github/stars/williamliujl/Qilin-Med-VL?style=social&label=Code+Stars)](https://github.com/williamliujl/Qilin-Med-VL) 
 
@@ -225,7 +225,7 @@ Hongjian Zhou, Boyang Gu, Xinyu Zou, Yiru Li, Sam S Chen, **Peilin Zhou**, Junli
 [![](https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?style=social&label=Code+Stars)](https://github.com/AI-in-Health/MedLLMsPracticalGuide) 
 
 
-- ``Under Review`` [Large Language Models in Mental Health Care: a Scoping Review](https://arxiv.org/pdf/2401.02984),
+- ``Under Review`` [Large Language Models in Mental Health Care: a Scoping Review](https://arxiv.org/pdf/2401.02984) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:KlAtU1dfN6UC'></span></strong>,
 Yining Hua, Fenglin Liu, Kailai Yang, Zehan Li, Yi-han Sheu, **Peilin Zhou**，et al.
 
 ## 🌱 AI for Good
@@ -237,13 +237,13 @@ Qingcheng Zeng, Lucas Garay, **Peilin Zhou**, Dading Chong, et al.
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/qcznlp/GreenPLMs)  
 
-- Propose a simple, heuristic pipeline utilizing bilingual lexicons to translate a source language PLM to a target language PLM with almost no computational cost,significantly reducing carbon emissions for building foundation PLMs in various languages.
+- Propose a simple, heuristic pipeline utilizing bilingual lexicons to translate a source language PLM to a target language PLM with almost no computational cost, significantly reducing carbon emissions for building foundation PLMs in various languages.
 </div>
 </div>
 
 ## 🤖 NLP Tasks and Datasets
 ### 📂 Dataset
-- ``ACL 2024`` [FinTextQA: A Dataset for Long-form Financial Question Answering](),
+- ``ACL 2024`` [FinTextQA: A Dataset for Long-form Financial Question Answering](https://aclanthology.org/2024.acl-long.328/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:YOwf2qJgpHMC'></span></strong>,
 Jian Chen, **Peilin Zhou**, Yining Hua, et al.
 
 ### 🗣️ Spoken Language Understanding
@@ -263,7 +263,7 @@ Qingcheng Zeng, Dading Chong, **Peilin Zhou**, Jie Yang
 Nuo Chen, Fenglin Liu, Chenyu You, **Peilin Zhou**, Yuexian Zou
 
 ### 🎙️ Audio Pretraining
-- ``ICASSP 2023`` [Masked Spectrogram Prediction for Self-supervised Audio Pre-training](https://arxiv.org/pdf/2204.12768),
+- ``ICASSP 2023`` [Masked Spectrogram Prediction for Self-supervised Audio Pre-training](https://arxiv.org/pdf/2204.12768) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:UeHWp8X0CEIC'></span></strong>,
 Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
 
 # 🗣 Invited Talks
@@ -286,8 +286,8 @@ Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
 - Reviewer (or PC Member): TKDE, TOIS, KDD 2025, ICLR 2025, ICCV 2025, WWW 2025/2024, CVPR 2025/2024, AAAI 2025/2024, NeurIPS 2025/2024/2023/2022, EMNLP 2023, ACL 2025/2024/2023, ICASSP 2024/2023/2021, COLING 2023/2022, Interspeech 2021, Neural Computing and Application
 
 # 💻 Internships
-- *2022.07 - 2022.09*, Reseach Assistant, supervised by Sunghun KIM, Hong Kong University of Science and Technology.
-- *2021.07 - 2022.08*, Reseach Assistant, supervised by Jie Yang, School of Medicine, Zhejiang University.
+- *2022.07 - 2022.09*, Research Assistant, supervised by Sunghun KIM, Hong Kong University of Science and Technology.
+- *2021.07 - 2022.08*, Research Assistant, supervised by Jie Yang, School of Medicine, Zhejiang University.
 - *2021.05 - 2022.07*, AI Researcher, Upstage.
 - *2021.07 - 2022.08*, Visiting Student, The Chinese University of Hong Kong (Shenzhen).
 
