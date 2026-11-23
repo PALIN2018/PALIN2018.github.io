@@ -88,7 +88,7 @@ I am actively <strong>seeking job opportunities in both academia and industry</s
 
 ## 📊 Recommender System
 ### 🧠 LLM/LVLM for RecSys
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023 GenRec Workshop</div><img src='images/chatgpt-rec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023 GenRec Workshop</div><img src='images/chatgpt-rec.webp' alt="ChatGPT-Rec framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Is ChatGPT a Good Recommender? A Preliminary Study](https://arxiv.org/pdf/2304.10149.pdf) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:eQOLeE2rZwMC'></span></strong>\\
@@ -101,7 +101,7 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 (Oral)</div><img src='images/MSRBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 (Oral)</div><img src='images/MSRBench.webp' alt="MSRBench benchmark overview diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Large Vision Language Models Meet Multimodal Sequential Recommendation: An Empirical Study](https://dl.acm.org/doi/10.1145/3696410.3714764) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:dhFuZR0502QC'></span></strong> \\
@@ -141,7 +141,7 @@ Weizhi Zhang, Yuanchen Bei, Liangwei Yang, Henry Peng Zou, **Peilin Zhou**, et a
 
 ### 🔁 Sequential Recommendation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/dif.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/dif.webp' alt="DIF-SR framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoupled Side Information Fusion for Sequential Recommendation](https://arxiv.org/pdf/2204.11046) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:qjMakFHDy7sC'></span></strong>\\
@@ -154,7 +154,7 @@ Yueqi Xie, **Peilin Zhou**, Sunghun Kim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/ACTSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2023</div><img src='images/ACTSR.webp' alt="ACTSR framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Attention Calibration for Transformer-based Sequential Recommendation](https://arxiv.org/pdf/2308.09419) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:roLk4NBRz8UC'></span></strong>\\
@@ -168,7 +168,7 @@ Yueqi Xie, **Peilin Zhou**, Sunghun Kim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2023</div><img src='images/ECL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RecSys 2023</div><img src='images/ECL.webp' alt="ECL framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Equivariant Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2211.05290) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:Y0pCki6q_DkC'></span></strong>\\
@@ -196,7 +196,7 @@ Yifan Shao, **Peilin Zhou**, Shoujin Wang, Weizhi Zhang, Xu Cai, Sunghun Kim
 ## 🏥 AI for Healthcare
 ### 📱 Medical Social Media Dataset
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/mets-cov.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/mets-cov.webp' alt="METS-CoV framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets](https://proceedings.neurips.cc/paper_files/paper/2022/file/89a7ddfbc08b25ef8ff9029d7dd9e3d3-Paper-Datasets_and_Benchmarks.pdf) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:Tyk-4Ss8FVUC'></span></strong>\\
@@ -217,7 +217,7 @@ Yining Hua, Jiageng Wu, Shixu Lin, Minghui Li, Yujie Zhang, Dinah Foer, Siwen Wa
 Wanxin Li, Yining Hua, **Peilin Zhou**, Li Zhou, Xin Xu, Jie Yang
 ### 🧬 Large Languages Models for Healthcare
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cmexam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cmexam.webp' alt="CMExam benchmark overview diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Benchmarking Large Language Models on CMExam--A Comprehensive Chinese Medical Exam Dataset](https://proceedings.neurips.cc/paper_files/paper/2023/file/a48ad12d588c597f4725a8b84af647b5-Paper-Datasets_and_Benchmarks.pdf) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:WF5omc3nYNoC'></span></strong>\\
@@ -230,7 +230,7 @@ Junling Liu, **Peilin Zhou**, Yining Hua, Dading Chong, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/qilin-med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/qilin-med.webp' alt="Qilin-Med framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](https://arxiv.org/pdf/2310.09089.pdf) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:hqOjcs7Dif8C'></span></strong>\\
@@ -257,7 +257,7 @@ Yining Hua, Fenglin Liu, Kailai Yang, Zehan Li, Yi-han Sheu, **Peilin Zhou**, et
 - ``ACL 2026 Findings`` [You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations](https://aclanthology.org/2026.findings-acl.708/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:j3f4tGmQtD8C'></span></strong>,
 Hongbin Na, Zimu Wang, Zhaoming Chen, **Peilin Zhou**, et al.
 ## 🌱 AI for Good
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/greenplm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/greenplm.webp' alt="GreenPLM framework diagram" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GreenPLM: Cross-lingual pre-trained language models conversion with (almost) no cost](https://arxiv.org/pdf/2211.06993.pdf) \\
@@ -326,10 +326,3 @@ Dading Chong, Helin Wang, **Peilin Zhou**, Qingcheng Zeng
 - *2021.07 - 2022.08*, Research Assistant, supervised by Jie Yang, School of Medicine, Zhejiang University.
 - *2021.05 - 2022.07*, AI Researcher, Upstage.
 - *2021.07 - 2022.08*, Visiting Student, The Chinese University of Hong Kong (Shenzhen).
-
-## 🗺️ Visitor Map
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=K2tNVrlNwuWYOsUQnfNtF89MRzHQLrAaCapBZ1t8oVg&cl=ffffff&w=a"></script>
