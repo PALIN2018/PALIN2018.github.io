@@ -64,6 +64,10 @@ I am actively <strong>seeking job opportunities in both academia and industry</s
 - *2026.01*: &nbsp;🎉 1 paper accepted by WWW 2026. Congrats to Yifan!
 - *2025.12*: &nbsp;🎓 Successfully defended my Ph.D. thesis titled "**Mitigating Data Challenges in Sequential Recommender Systems**"!
 - *2025.12*: &nbsp;🎉 1 paper accepted by KDD 2026. Congrats to Jian!
+
+<details markdown="1">
+<summary>🗞️ Earlier news (2023 – 2025)</summary>
+
 - *2025.07*: &nbsp;🗣 Invited to give a talk on "**Mitigating Data Challenges in Sequential Recommendation**" at Bytedance (Advertising Platform Team).
 - *2025.05*: &nbsp;🚀 Our new benchmark paper "**BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese**" is now available on ArXiv!  
   This is the **first high-difficulty benchmark** specifically built to evaluate LLMs’ real-world web browsing and reasoning abilities on the **Chinese internet**, spanning 289 multi-hop, verifiable questions across 11 domains.  
@@ -83,6 +87,8 @@ I am actively <strong>seeking job opportunities in both academia and industry</s
 - *2024.01*: &nbsp;🎉 1 paper is accepted by WWW 2024. 
 - *2023.09*: &nbsp;🎉 Our paper "Is ChatGPT a Good Recommender? A Preliminary Study" is accepted by The 1st Workshop on Recommendation with Generative Models (organized by CIKM 2023).
 - *2023.09*: &nbsp;🎉 1 paper is accepted by NeurIPS 2023.
+
+</details>
 
 # 📝 Publications 
 
