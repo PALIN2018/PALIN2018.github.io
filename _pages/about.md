@@ -115,6 +115,24 @@ Junling Liu, Chao Liu, **Peilin Zhou**, Renjie Lv, Kang Zhou, Yan Zhang.
 </div>
 </div>
 
+- ``EMNLP 2026 Findings`` [Generate What You Can Trust: Content Credibility in Generative Recommenders](https://aclanthology.org/2026.findings-emnlp.2252/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:k_IJM867U9cC'></span></strong>,
+Zhuo Cai, Guanghao Wu, Shoujin Wang, **Peilin Zhou**, Victor W. Chu
+
+- ``EMNLP 2026 Findings`` [VFPO: Variance-aware Negative Feedback Policy Optimization for Mitigating Entropy Collapse via Group Statistics](https://aclanthology.org/2026.findings-emnlp.2449/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:maZDTaKrznsC'></span></strong>,
+Bo Zhang, Zinan Zeng, Juntong Zhou, Dading Chong, Zhenyu Ding, Dengpeng Wu, Ning Ding, **Peilin Zhou**
+
+- ``SIGIR 2026`` [Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation](https://arxiv.org/pdf/2512.06883) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:_Qo2XoVZTnwC'></span></strong>,
+Zhongtao Rao, **Peilin Zhou**, Dading Chong, Zhiwei Chen, Shoujin Wang, Nan Tang
+
+- ``TOIS 2026`` [Misinformation Unlearning for Responsible Content Recommendation](https://dl.acm.org/doi/10.1145/3812649) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:bEWYMUwI8FkC'></span></strong>,
+Zhuo Cai, Shoujin Wang, **Peilin Zhou**, Yan Wang, Xiao Liu, Lianyong Qi, Julian McAuley, Dietmar Jannach
+
+- ``ICLR 2026`` [Steering Diffusion Models Towards Credible Content Recommendation](https://openreview.net/forum?id=gcT2BCGcZJ) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:r0BpntZqJG4C'></span></strong>,
+Zhuo Cai, Shoujin Wang, Jin Li, **Peilin Zhou**, Victor W. Chu, Fang Chen, Tianqing Zhu, Charu C. Aggarwal
+
+- ``ArXiv`` [Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap](https://arxiv.org/abs/2501.01945) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:QIV2ME_5wuYC'></span></strong>,
+Weizhi Zhang, Yuanchen Bei, Liangwei Yang, Henry Peng Zou, **Peilin Zhou**, et al.
+
 - ``ArXiv`` [LLMRec: Benchmarking Large Language Models on Recommendation Task](https://arxiv.org/pdf/2308.12241) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:Se3iqnhoufwC'></span></strong>, Junling Liu, Chao Liu, **Peilin Zhou**, et al.
 [![](https://img.shields.io/github/stars/williamliujl/LLMRec?style=social&label=Code+Stars)](https://github.com/williamliujl/LLMRec) 
 
@@ -164,6 +182,12 @@ Yueqi Xie, **Peilin Zhou**, Sunghun Kim
 </div>
 </div>
 
+- ``CIKM 2026`` [Latent Intent Anchoring for Robust Sequential Recommendation](https://dl.acm.org/doi/10.1145/3799682.3839973) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:M3NEmzRMIkIC'></span></strong>,
+Yifan Shao, **Peilin Zhou**, Shoujin Wang, Tuka Alhanai
+
+- ``WWW 2026`` [DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation](https://arxiv.org/pdf/2512.14036) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:4JMBOYKVnBMC'></span></strong>,
+Yifan Shao, **Peilin Zhou**, Shoujin Wang, Weizhi Zhang, Xu Cai, Sunghun Kim
+
 - ``WWW 2024`` [Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation](https://arxiv.org/pdf/2403.11136), **Peilin Zhou**, Youliang Huang, Yueqi Xie, et al.
 
 - ``RecSys 2023`` [Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems](https://arxiv.org/pdf/2302.14532), Yueqi Xie, Jingqi Gao, **Peilin Zhou**, Qichen Ye, et al. 
@@ -186,9 +210,11 @@ Yueqi Xie, **Peilin Zhou**, Sunghun Kim
 </div>
 </div>
 
-- ``Under Review`` [Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning](https://arxiv.org/pdf/2306.16001),
-Yining Hua, Shixu Lin, Minghui Li, Yujie Zhang, **Peilin Zhou**, Ying-Chih Lo, Li Zhou, Jie Yang
+- ``JAMIA 2024`` [Streamlining Social Media Information Retrieval for Public Health Research with Deep Learning](https://doi.org/10.1093/jamia/ocae118) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:ufrVoPGSRksC'></span></strong>,
+Yining Hua, Jiageng Wu, Shixu Lin, Minghui Li, Yujie Zhang, Dinah Foer, Siwen Wang, **Peilin Zhou**, Jie Yang, Li Zhou
 
+- ``JMIR 2025`` [Characterizing Public Sentiments and Drug Interactions in the COVID-19 Pandemic Using Social Media: Natural Language Processing and Network Analysis](https://www.jmir.org/2025/1/e63755) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:ZeXyd9-uunAC'></span></strong>,
+Wanxin Li, Yining Hua, **Peilin Zhou**, Li Zhou, Xin Xu, Jie Yang
 ### 🧬 Large Languages Models for Healthcare
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/cmexam.png' alt="sym" width="100%"></div></div>
@@ -204,7 +230,7 @@ Junling Liu, **Peilin Zhou**, Yining Hua, Dading Chong, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/qilin-med.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/qilin-med.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](https://arxiv.org/pdf/2310.09089.pdf) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:hqOjcs7Dif8C'></span></strong>\\
@@ -216,18 +242,20 @@ Qichen Ye, Junling Liu, Dading Chong, **Peilin Zhou**, et al.
 </div>
 </div>
 
-- ``Under Review`` [Qilin-Med-VL: Towards Chinese Large Vision-language Model for General Healthcare](https://arxiv.org/pdf/2310.17956) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:MXK_kJrjxJIC'></span></strong>,
+- ``ArXiv`` [Qilin-Med-VL: Towards Chinese Large Vision-language Model for General Healthcare](https://arxiv.org/pdf/2310.17956) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:MXK_kJrjxJIC'></span></strong>,
 Junling Liu, Ziming Wang, Qichen Ye, Dading Chong, **Peilin Zhou**, Yining Hua
 [![](https://img.shields.io/github/stars/williamliujl/Qilin-Med-VL?style=social&label=Code+Stars)](https://github.com/williamliujl/Qilin-Med-VL) 
 
-- ``Under Review`` [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/html/2311.05112v3) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:kNdYIx-mwKoC'></span></strong>,
-Hongjian Zhou, Boyang Gu, Xinyu Zou, Yiru Li, Sam S Chen, **Peilin Zhou**, Junling Liu, Yining Hua, Chengfeng Mao, Xian Wu, Zheng Li, Fenglin Liu
+- ``Nature Reviews Bioengineering 2025`` [Application of Large Language Models in Medicine](https://doi.org/10.1038/s44222-025-00279-5) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:kNdYIx-mwKoC'></span></strong>,
+Fenglin Liu, Hongjian Zhou, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S Chen, Yining Hua, **Peilin Zhou**, Junling Liu, Chengfeng Mao, Chenyu You, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton
 [![](https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?style=social&label=Code+Stars)](https://github.com/AI-in-Health/MedLLMsPracticalGuide) 
 
 
-- ``Under Review`` [Large Language Models in Mental Health Care: a Scoping Review](https://arxiv.org/pdf/2401.02984) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:KlAtU1dfN6UC'></span></strong>,
-Yining Hua, Fenglin Liu, Kailai Yang, Zehan Li, Yi-han Sheu, **Peilin Zhou**，et al.
+- ``Current Treatment Options in Psychiatry 2025`` [Large Language Models in Mental Health Care: A Scoping Review](https://doi.org/10.1007/s40501-025-00363-y) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:KlAtU1dfN6UC'></span></strong>,
+Yining Hua, Fenglin Liu, Kailai Yang, Zehan Li, Yi-han Sheu, **Peilin Zhou**, et al.
 
+- ``ACL 2026 Findings`` [You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations](https://aclanthology.org/2026.findings-acl.708/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:j3f4tGmQtD8C'></span></strong>,
+Hongbin Na, Zimu Wang, Zhaoming Chen, **Peilin Zhou**, et al.
 ## 🌱 AI for Good
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/greenplm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -246,6 +274,14 @@ Qingcheng Zeng, Lucas Garay, **Peilin Zhou**, Dading Chong, et al.
 - ``ACL 2024`` [FinTextQA: A Dataset for Long-form Financial Question Answering](https://aclanthology.org/2024.acl-long.328/) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:YOwf2qJgpHMC'></span></strong>,
 Jian Chen, **Peilin Zhou**, Yining Hua, et al.
 
+- ``ArXiv`` [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://arxiv.org/pdf/2504.19314) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:qUcmZB5y_30C'></span></strong>,
+**Peilin Zhou**, Bruce Leon, Xiang Ying, Can Zhang, Yifan Shao, et al.
+
+- ``AAAI 2026 Summer Symposium`` [FinTruthQA: A Benchmark for AI-Driven Financial Disclosure Quality Assessment in Investor–Firm Interactions](https://doi.org/10.1609/aaaiss.v9i1.42926) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:iH-uZ7U-co4C'></span></strong>,
+**Peilin Zhou**, Ziyue Xu, Xinyu Shi, Jiageng Wu, Yikang Jiang, Dading Chong, Wang Dong, Jun Chen, Bin Ke, Jie Yang
+
+- ``KDD 2025`` [ClimateIQA: A New Dataset and Benchmark to Advance Vision-Language Models in Meteorology Anomalies Analysis](https://arxiv.org/pdf/2406.09838) <strong><span class='show_paper_citations' data='3dx8O1AAAAAJ:HDshCWvjkbEC'></span></strong>,
+Jian Chen, **Peilin Zhou**, Yining Hua, Dading Chong, Meng Cao, Yaowei Li, Wei Chen, Bing Zhu, Junwei Liang, Zixuan Yuan
 ### 🗣️ Spoken Language Understanding
 
 - ``ICASSP 2022`` [Joint Multiple Intent Detection and Slot Filling via Self-distillation](https://arxiv.org/pdf/2108.08042),
