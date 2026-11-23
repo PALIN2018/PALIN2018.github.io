@@ -31,3 +31,8 @@ jobs:
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Purge jsdelivr cache
+      if: success()
+      run: |
+        curl -s "https://purge.jsdelivr.net/gh/PALIN2018/palin2018.github.io@google-scholar-stats/gs_data.json"
+        curl -s "https://purge.jsdelivr.net/gh/PALIN2018/palin2018.github.io@google-scholar-stats/gs_data_shieldsio.json"
